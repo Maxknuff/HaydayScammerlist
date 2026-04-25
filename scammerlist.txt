@@ -1,11 +1,233 @@
-# Hay Day Scammer # Format: Name#Tag | Grund | Status (confirmed/suspected)
-# Zeilen die mit # beginnen werden ignoriert
-# Status: "confirmed" = bestätigt, "suspected" = verdächtig (Standard: confirmed)
-# Tag ist optional
+# Hay Day Scammer List
+# Format: FarmName #TAG | Grund | Status
+# Status: confirmed = bestätigt, suspected = verdächtig
+# Letzte Aktualisierung: 2026-04-25
 
-# ──── Beispiel-Einträge (ersetze mit der echten Liste) ────
-ScammerMustermann#1234 | Hat Diamanten gestohlen | confirmed
-FakeFarmer#5678 | Tausch nicht gesendet | confirmed
-SuspectFarmer#9012 | Verdächtiges Verhalten | suspected
-TrustScammer#3456 | Account-Diebstahl | confirmed
-GemThief#7890 | Gems-Scam | confirmed
+# ──── Account Selling / Buying (Real Money) ────────────────────────────────
+# Involved with the server that was selling/buying Hay Day accounts for real money.
+
+#YJ8VPJCYR | Account-Selling/Buying Server | confirmed
+Nicholas #i | Account-Selling/Buying Server | confirmed
+Leyanna's farm #9YQG8QRVQ | Account-Selling/Buying Server | confirmed
+Coc #YJG8PVJ2Y | Account-Selling/Buying Server | confirmed
+Productor de aji #8VOYUYQR2 | Account-Selling/Buying Server | confirmed
+Noodles #YLVOPRR9Q | Account-Selling/Buying Server | confirmed
+#P8UYYPRJ0 | Account-Selling/Buying Server | confirmed
+Three leaf clover #88C8LP2RO | Account-Selling/Buying Server | confirmed
+#PVCUVQ0QV | Account-Selling/Buying Server | confirmed
+#2RVCG2Q2U | Account-Selling/Buying Server | confirmed
+#Y8VV9RL8G | Account-Selling/Buying Server | confirmed
+#P9GJRPYGU | Account-Selling/Buying Server | confirmed
+#2VL0YYYYL | Account-Selling/Buying Server | confirmed
+Kannabis420 lv35 #YRCP2JR8Q | Account-Selling/Buying Server | confirmed
+Legend #8QUCVGRY | Account-Selling/Buying Server | confirmed
+Swedish star #YVGORGP90 | Account-Selling/Buying Server | confirmed
+Dragon fire #2J8PYPUUV | Account-Selling/Buying Server | confirmed
+Kurd #POO2VGRV8 | Account-Selling/Buying Server | confirmed
+dtc #YL8QYPG2P | Account-Selling/Buying Server | confirmed
+TRCenKoo #YPUQGG89P | Account-Selling/Buying Server | confirmed
+husband material #L9GR8QYCV | Account-Selling/Buying Server | confirmed
+baguette #20Y0QUCYU | Account-Selling/Buying Server | confirmed
+baguette storage #P9RJY2GQQ | Account-Selling/Buying Server | confirmed
+Elliexfarm #2J9YURL2L | Account-Selling/Buying Server | confirmed
+jkaiser193 #82LVC2JCQ | Account-Selling/Buying Server | confirmed
+#PGUP98CR0 | Account-Selling/Buying Server | confirmed
+The Farmer #9C9VYGVQV | Account-Selling/Buying Server | confirmed
+tropical #LYCQ0PRJ | Account-Selling/Buying Server | confirmed
+Mansim #PLJL0280V | Account-Selling/Buying Server | confirmed
+#YR8822VRG | Account-Selling/Buying Server | confirmed
+Hay Village #8JPQ28COJ | Account-Selling/Buying Server | confirmed
+MarcoZenda #YGC2LQYP9 | Account-Selling/Buying Server | confirmed
+Kwasek #9JCCP89VQ | Account-Selling/Buying Server | confirmed
+Merlin #PLQP229VU | Account-Selling/Buying Server | confirmed
+Farm von Stefan #YOU8PJ8Y9 | Account-Selling/Buying Server | confirmed
+The goat #2J2CQCLY9 | Account-Selling/Buying Server | confirmed
+vhlog #PROLCORUV | Account-Selling/Buying Server | confirmed
+vinh #YYOJ8L2CC | Account-Selling/Buying Server | confirmed
+rot #LPG9JJVCC | Account-Selling/Buying Server | confirmed
+jamal's mini farm #LLP8CRP20 | Account-Selling/Buying Server | confirmed
+Mike #P2L99JLQL | Account-Selling/Buying Server | confirmed
+#90PU2JG8J | Account-Selling/Buying Server | confirmed
+#L000UC92Q | Account-Selling/Buying Server | confirmed
+poepbuurderie #LPOJ822VO | Account-Selling/Buying Server | confirmed
+DejanDiCaprio #L2R2UOUGY | Account-Selling/Buying Server | confirmed
+LilaWasTaken #8JG9LOLGC | Account-Selling/Buying Server | confirmed
+Kavir #PJLV8VCPV | Account-Selling/Buying Server | confirmed
+#98CU2UJGQ | Account-Selling/Buying Server | confirmed
+#9R8UGPP2J | Account-Selling/Buying Server | confirmed
+Moshi/40 #82CQPR9CG | Account-Selling/Buying Server | confirmed
+hayday #YY8JV00R9 | Account-Selling/Buying Server | confirmed
+#LRG9LLRL2 | Account-Selling/Buying Server | confirmed
+#PUQ2YYYUL | Account-Selling/Buying Server | confirmed
+JDC #PGR8J9JJV | Account-Selling/Buying Server | confirmed
+JDC #PQ9UJGGVJ | Account-Selling/Buying Server | confirmed
+JDC #9VVYRJP89 | Account-Selling/Buying Server | confirmed
+
+# ──── Account Selling / Buying - Additional Members ──────────────────────────
+
+beni #P2CLYCOLV | Account-Selling/Buying Server | confirmed
+Ekin #LPOP8VJQG | Account-Selling/Buying Server | confirmed
+JAGÄRRÄDDFÖRPOTUS #YUJRLYJ2G | Account-Selling/Buying Server | confirmed
+BUSE'NIN OBASI #YVY9RUGQQ | Account-Selling/Buying Server | confirmed
+Xayron_3 #L2L89GPPU | Account-Selling/Buying Server | confirmed
+Farid #Y9YLQRYL9 | Account-Selling/Buying Server | confirmed
+Fifty Shades of Hay #8P2L9RJPR | Account-Selling/Buying Server | confirmed
+MainGuys Farm #8Y2UV2U8Y | Account-Selling/Buying Server | confirmed
+oo #YLJ2RLCLR | Account-Selling/Buying Server | confirmed
+Twitch_Majestic #8YVJ8RQJP | Account-Selling/Buying Server | confirmed
+Wolffys and Fluffys Farm #L9GVV8UUR | Account-Selling/Buying Server | confirmed
+The Farmer #PR282U8YY | Account-Selling/Buying Server | confirmed
+Mel's Farm #2GP8U2229 | Account-Selling/Buying Server | confirmed
+madness like gravity #2YRCRPJRC | Account-Selling/Buying Server | confirmed
+
+# ──── Scam List / Blacklisted ────────────────────────────────────────────────
+
+#208LGJGRC | Blacklisted | confirmed
+#20YJU08VR | Blacklisted | confirmed
+#22080VVGG | Blacklisted | confirmed
+#22J2U9YQP | Blacklisted | confirmed
+#22PP99QLC | Blacklisted | confirmed
+#22ULU2LPL | Blacklisted | confirmed
+#282UJRYLG | Blacklisted | confirmed
+#28J2QLUVP | Blacklisted | confirmed
+#28J99JUQQ | Blacklisted | confirmed
+#29R9UO8QQ | Blacklisted | confirmed
+#2C8PRUVLR | Blacklisted | confirmed
+#2CCRRCC2L | Blacklisted | confirmed
+#2CVVGLG0R | Blacklisted | confirmed
+#2GQLCRUU9 | Blacklisted | confirmed
+#2GRP02UJ | Blacklisted | confirmed
+#2GVLV99PC | Blacklisted | confirmed
+#2J2CCLLJ8 | Blacklisted | confirmed
+#2JYQR9UVJ | Blacklisted | confirmed
+#2L8RULRUC | Blacklisted | confirmed
+#2LCGUQPG0 | Blacklisted | confirmed
+#2LGJY98YY | Blacklisted | confirmed
+#2LRU88URY | Blacklisted | confirmed
+#2LV8YGR0V | Blacklisted | confirmed
+#2PGOUUL20 | Blacklisted | confirmed
+#2Q8VV99Q0 | Blacklisted | confirmed
+#2Q9888YUG | Blacklisted | confirmed
+#2QPR9ULY2 | Blacklisted | confirmed
+#2R282L0Y | Blacklisted | confirmed
+#2RPL9VURC | Blacklisted | confirmed
+#2UC2VUCRJ | Blacklisted | confirmed
+#2UURQC0J | Blacklisted | confirmed
+#2VJ9J8CP | Blacklisted | confirmed
+#2VL0YYYYL | Blacklisted | confirmed
+#2VPPG82YQ | Blacklisted | confirmed
+#2VYC8JU8P | Blacklisted | confirmed
+#2Y82G980Y | Blacklisted | confirmed
+#2YPLRVC09 | Blacklisted | confirmed
+#2YRCRPJRC | Blacklisted | confirmed
+#800PPVQCL | Blacklisted | confirmed
+#80R8RQC2P | Blacklisted | confirmed
+#8220980V2 | Blacklisted | confirmed
+#828UVCRC | Blacklisted | confirmed
+#82CQPR9CG | Blacklisted | confirmed
+#82CYJVYU2 | Blacklisted | confirmed
+#82LVPJLCU | Blacklisted | confirmed
+#82RUL2J2L | Blacklisted | confirmed
+#88CC8CL2 | Blacklisted | confirmed
+#88GL209QL | Blacklisted | confirmed
+#88YYC2JLC | Blacklisted | confirmed
+#890URVLJL | Blacklisted | confirmed
+#898GL29CY | Blacklisted | confirmed
+#898PGRPG | Blacklisted | confirmed
+#89CGG280Y | Blacklisted | confirmed
+#89CQVYP9R | Blacklisted | confirmed
+#89ULYR802 | Blacklisted | confirmed
+#8C9YRLC8P | Blacklisted | confirmed
+#8CJL0PCGJ | Blacklisted | confirmed
+#8COV8QVOP | Blacklisted | confirmed
+#8CV82U22J | Blacklisted | confirmed
+#8G2VGY2RR | Blacklisted | confirmed
+#8GCY009C0 | Blacklisted | confirmed
+#8GPPJLC8V | Blacklisted | confirmed
+#8JC9L2UV | Blacklisted | confirmed
+#8JG8QGG0P | Blacklisted | confirmed
+#8LPGQLG99 | Blacklisted | confirmed
+#8LQUOROYJ | Blacklisted | confirmed
+#8PG2QYV90 | Blacklisted | confirmed
+#8QGLRLPYV | Blacklisted | confirmed
+#8QQYRYG8P | Blacklisted | confirmed
+#8R2YR0LV9 | Blacklisted | confirmed
+#8RUGY8CLR | Blacklisted | confirmed
+#8RY092JVQ | Blacklisted | confirmed
+#8U22C08UJ | Blacklisted | confirmed
+#8UCQY8RRJ | Blacklisted | confirmed
+#8UCURVYL | Blacklisted | confirmed
+#8UQ9B8CTY | Blacklisted | confirmed
+#8UYYRLPC | Blacklisted | confirmed
+#8V0YCC9Y0 | Blacklisted | confirmed
+#8VG8RY9YQ | Blacklisted | confirmed
+#8VLPPYPC0 | Blacklisted | confirmed
+#8VQU88CYU | Blacklisted | confirmed
+#8YP2JL89L | Blacklisted | confirmed
+#8YPJRJ028 | Blacklisted | confirmed
+#8YPL9RC9L | Blacklisted | confirmed
+#8YQ9V8CRY | Blacklisted | confirmed
+#8PG2QYV90 | Blacklisted | confirmed
+#90C08GGYU | Blacklisted | confirmed
+#90CQVL8J2 | Blacklisted | confirmed
+#90GC2LV2L | Blacklisted | confirmed
+#9280P28JR | Blacklisted | confirmed
+#92JGGYY2J | Blacklisted | confirmed
+#92RR92Q90 | Blacklisted | confirmed
+#92Y2C29VU | Blacklisted | confirmed
+#982UVUGV0 | Blacklisted | confirmed
+#98QRJP289 | Blacklisted | confirmed
+#98UVGRCL0 | Blacklisted | confirmed
+#98Y99YYJQ | Blacklisted | confirmed
+#99G00PUGY | Blacklisted | confirmed
+#99QYUCUJR | Blacklisted | confirmed
+#99RCJL892 | Blacklisted | confirmed
+#99RG2PPYQ | Blacklisted | confirmed
+#99VQ8JR00 | Blacklisted | confirmed
+#99YRGY2JV | Blacklisted | confirmed
+#9C2Y9Q88 | Blacklisted | confirmed
+#9CJC2PC2Q | Blacklisted | confirmed
+#9CL8PRVCY | Blacklisted | confirmed
+#9CVJ2LCVV | Blacklisted | confirmed
+#9CYLV92LQ | Blacklisted | confirmed
+#9GG88UVJO | Blacklisted | confirmed
+#9GGQ0UG8L | Blacklisted | confirmed
+#9GGVLUY9 | Blacklisted | confirmed
+#9GJJ9QRVQ | Blacklisted | confirmed
+#9GRCRPJ2P | Blacklisted | confirmed
+#9GYVCJVJV | Blacklisted | confirmed
+#9J2J80290 | Blacklisted | confirmed
+#9JCQ88L08 | Blacklisted | confirmed
+#9JCY29CYR | Blacklisted | confirmed
+#9JJ09JVPG | Blacklisted | confirmed
+#9JL9CCU82 | Blacklisted | confirmed
+#9JVQV90UQ | Blacklisted | confirmed
+#9JYJ080JL | Blacklisted | confirmed
+#9L0GCGULU | Blacklisted | confirmed
+#9L22PU8RU | Blacklisted | confirmed
+#9LGJ08LP8 | Blacklisted | confirmed
+#9LQP98U08 | Blacklisted | confirmed
+#9LRJQU9CV | Blacklisted | confirmed
+#9LRUVRLQ8 | Blacklisted | confirmed
+#9LY22G2LP | Blacklisted | confirmed
+#9P888UCC0 | Blacklisted | confirmed
+#9P8CYLYG9 | Blacklisted | confirmed
+#9PGJJ9RCY | Blacklisted | confirmed
+#9PJ9L2LY9 | Blacklisted | confirmed
+#9PJRLQYQU | Blacklisted | confirmed
+#9PLGLG2U8 | Blacklisted | confirmed
+#9POQR8CJO | Blacklisted | confirmed
+#9PR20J0VP | Blacklisted | confirmed
+#9Q08CRVCU | Blacklisted | confirmed
+#9Q2ORU2YJ | Blacklisted | confirmed
+#9Q9GCGU9J | Blacklisted | confirmed
+#9QQRPJJL | Blacklisted | confirmed
+#9QR2JL0G8 | Blacklisted | confirmed
+#9R298PJ20 | Blacklisted | confirmed
+#9R8C2LV80 | Blacklisted | confirmed
+#9RC8PQUC9 | Blacklisted | confirmed
+#9RYG2QLQ | Blacklisted | confirmed
+#9UCRJU8UL | Blacklisted | confirmed
+#9UJYPV9PR | Blacklisted | confirmed
+#9UV88989Q | Blacklisted | confirmed
+#9UY2P8G9 | Blacklisted | confirmed
