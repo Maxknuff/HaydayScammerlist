@@ -1,11 +1,3 @@
-# Hay Day Scammer List
-# Format: FarmName #TAG | Grund | Status
-# Status: confirmed = bestätigt, suspected = verdächtig
-# Letzte Aktualisierung: 2026-04-25
-
-# ──── Account Selling / Buying (Real Money) ────────────────────────────────
-# Involved with the server that was selling/buying Hay Day accounts for real money.
-
 #YJ8VPJCYR | Account-Selling/Buying Server | confirmed
 Nicholas #i | Account-Selling/Buying Server | confirmed
 Leyanna's farm #9YQG8QRVQ | Account-Selling/Buying Server | confirmed
@@ -62,9 +54,6 @@ hayday #YY8JV00R9 | Account-Selling/Buying Server | confirmed
 JDC #PGR8J9JJV | Account-Selling/Buying Server | confirmed
 JDC #PQ9UJGGVJ | Account-Selling/Buying Server | confirmed
 JDC #9VVYRJP89 | Account-Selling/Buying Server | confirmed
-
-# ──── Account Selling / Buying - Additional Members ──────────────────────────
-
 beni #P2CLYCOLV | Account-Selling/Buying Server | confirmed
 Ekin #LPOP8VJQG | Account-Selling/Buying Server | confirmed
 JAGÄRRÄDDFÖRPOTUS #YUJRLYJ2G | Account-Selling/Buying Server | confirmed
@@ -79,9 +68,6 @@ Wolffys and Fluffys Farm #L9GVV8UUR | Account-Selling/Buying Server | confirmed
 The Farmer #PR282U8YY | Account-Selling/Buying Server | confirmed
 Mel's Farm #2GP8U2229 | Account-Selling/Buying Server | confirmed
 madness like gravity #2YRCRPJRC | Account-Selling/Buying Server | confirmed
-
-# ──── Scam List / Blacklisted ────────────────────────────────────────────────
-
 #208LGJGRC | Blacklisted | confirmed
 #20YJU08VR | Blacklisted | confirmed
 #22080VVGG | Blacklisted | confirmed
