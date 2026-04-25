@@ -1,0 +1,11 @@
+# Hay Day Scammer # Format: Name#Tag | Grund | Status (confirmed/suspected)
+# Zeilen die mit # beginnen werden ignoriert
+# Status: "confirmed" = bestätigt, "suspected" = verdächtig (Standard: confirmed)
+# Tag ist optional
+
+# ──── Beispiel-Einträge (ersetze mit der echten Liste) ────
+ScammerMustermann#1234 | Hat Diamanten gestohlen | confirmed
+FakeFarmer#5678 | Tausch nicht gesendet | confirmed
+SuspectFarmer#9012 | Verdächtiges Verhalten | suspected
+TrustScammer#3456 | Account-Diebstahl | confirmed
+GemThief#7890 | Gems-Scam | confirmed
