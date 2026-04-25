@@ -161,27 +161,40 @@ function parseData(raw, format) {
   return raw
     .split('\n')
     .map(l => l.trim())
-    .filter(l => l && !l.startsWith('#') && !l.startsWith('//') && !l.startsWith('--'))
+    .filter(l => {
+      // Ignoriere leere Zeilen
+      if (!l) return false;
+      // Ignoriere typische Kommentar-Präfixe (Vorsicht: Hay Day Tags fangen mit # an!)
+      if (l.startsWith('# ') || l.startsWith('##') || l.startsWith('#-') || l.startsWith('# ─')) return false;
+      if (l.startsWith('//') || l.startsWith('--')) return false;
+      return true;
+    })
     .map(line => {
       const parts = line.split('|').map(p => p.trim());
       const nameRaw = parts[0] || '';
       const reason  = parts[1] || '';
       const status  = parseStatus(parts[2] || '');
 
-      // Name + optionaler Discord-Tag (#XXXX)
-      const hashIdx = nameRaw.lastIndexOf('#');
+      const hashIdx = nameRaw.indexOf('#');
       let name, tag;
-      if (hashIdx > 0 && nameRaw.length - hashIdx <= 5) {
+      
+      if (hashIdx === 0) {
+        // Fängt direkt mit # an -> Nur Tag, kein Name bekannt
+        name = 'Name unbekannt';
+        tag  = nameRaw;
+      } else if (hashIdx > 0) {
+        // Name und Tag zusammen (z.B. "Max #ABCD")
         name = nameRaw.substring(0, hashIdx).trim();
-        tag  = nameRaw.substring(hashIdx);
+        tag  = nameRaw.substring(hashIdx).trim();
       } else {
+        // Kein Tag vorhanden, nur Name
         name = nameRaw;
         tag  = '';
       }
 
       return { name, tag, reason, status };
     })
-    .filter(e => e.name);
+    .filter(e => e.name || e.tag);
 }
 
 function normalizeEntry(e) {
@@ -228,7 +241,19 @@ function createCard(scammer, idx) {
     : 'background:rgba(234,179,8,0.15);border-color:rgba(234,179,8,0.3)';
   const delay = Math.min(idx * 30, 300);
 
-  const displayTag  = tag ? `<div class="card-tag">${escHtml(tag)}</div>` : '';
+  const isUnknown = name === 'Name unbekannt';
+  
+  const displayName = isUnknown 
+    ? `<div class="card-name" style="color: var(--clr-muted); font-style: italic; font-weight: 500;">${name}</div>`
+    : `<div class="card-name">${highlight(escHtml(name), state.query)}</div>`;
+
+  const displayTag  = tag 
+    ? `<div class="card-tag-wrapper">
+         <span class="tag-label">TAG</span>
+         <span class="card-tag">${highlight(escHtml(tag), state.query)}</span>
+       </div>` 
+    : '';
+
   const displayReason = reason
     ? `<div class="card-reason">🚫 ${escHtml(reason)}</div>`
     : '';
@@ -237,7 +262,7 @@ function createCard(scammer, idx) {
     <div class="scammer-card" ${accentStyle} style="animation-delay:${delay}ms" role="listitem" aria-label="${escHtml(name)} – ${badgeLabel}">
       <div class="card-avatar" style="${avatarStyle}">${emoji}</div>
       <div class="card-body">
-        <div class="card-name">${highlight(escHtml(name), state.query)}</div>
+        ${displayName}
         ${displayTag}
         ${displayReason}
       </div>

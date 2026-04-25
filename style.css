@@ -560,11 +560,30 @@ body {
   text-overflow: ellipsis;
 }
 
+.card-tag-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.3rem;
+}
+
+.tag-label {
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: var(--clr-bg);
+  background: var(--clr-muted);
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+  letter-spacing: 0.05em;
+  opacity: 0.8;
+}
+
 .card-tag {
-  font-size: 0.78rem;
-  color: var(--clr-muted);
-  margin-top: 0.1rem;
-  font-weight: 400;
+  font-size: 0.82rem;
+  color: #a1a1aa;
+  font-family: monospace;
+  font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 .card-reason {
